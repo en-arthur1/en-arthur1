@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and AI
 - 🌱 I’m currently learning Flutter App Development
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ... arthurenock205@gmail.com
+- 📫 How to reach me arthurenock205@gmail.com
 - 😄 Pronouns:He/Him
 
 <!---
