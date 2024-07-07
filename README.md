@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @en-arthur1
+- 👋 Hi, I’m Enock Arthur a computer science student
 - 👀 I’m interested in Software Engineering and AI
 - 🌱 I’m currently learning Flutter App Development
 - 💞️ I’m looking to collaborate on any projects
